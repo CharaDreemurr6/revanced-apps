@@ -11,3 +11,5 @@ apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 
 [Twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
+build-mode = "both"
+version = "latest"
